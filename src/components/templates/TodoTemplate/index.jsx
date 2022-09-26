@@ -6,7 +6,7 @@
 import { InputForm } from "../../atoms/InputForm";
 import { AddTodo } from "../../organisms/AddTodo";
 import { TodoList } from "../../organisms/TodoLlist";
-import { useTodoContext } from "../../../contexts/TodoContext";
+import { useTodoContext } from "../../../contexts/TodoContext.jsx";
 import styles from "./styles.module.css";
 
 /**

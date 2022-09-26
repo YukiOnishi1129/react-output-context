@@ -3,7 +3,7 @@
  *
  * @package pages
  */
-import { TodoProvider } from "../contexts/TodoContext";
+import { TodoProvider } from "../contexts/TodoContext.jsx";
 import { TodoTemplate } from "../components/templates/TodoTemplate";
 
 /**

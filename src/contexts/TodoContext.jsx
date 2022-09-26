@@ -4,7 +4,7 @@
  * @package contexts
  */
 import { useContext, createContext } from "react";
-import { useTodo } from "../hooks/useTodo";
+import { useTodo } from "../hooks/useTodo.js";
 
 /**
  * TodoContext
